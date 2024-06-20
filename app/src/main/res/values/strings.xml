@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OnboardingApp</string>
+    <string name="title1_1">Your first car without\na driver\'s license</string>
+    <string name="title2_1">Goes to people who just got\ntheir license</string>
+    <string name="title1_2">Always there: more than\n1000 cars in Tbilisi</string>
+    <string name="title2_2">Our company is a leader by the\nnumber of cars in the fleet</string>
+    <string name="title1_3">Do not pay for parking\nmaintenance and gasoline</string>
+    <string name="title2_3">We will pay for you, all expenses\nrelated to the car</string>
+    <string name="title1_4">29 car models: from Skoda\nOctavia to Porsche 911</string>
+    <string name="title2_4">Choose between regular car models\nor exclusive ones</string>
+    <string name="you_are_a_clever_person">You are a clever person</string>
+    <string name="skip">Skip</string>
+</resources>
